@@ -1,4 +1,4 @@
-# Mini Proyecto: API Segura con JWT (2 días)
+# Mini Proyecto: API Segura con JWT
 
 ## Objetivo
 Crear una API REST básica con autenticación JWT usando Spring Security donde existan dos roles: USER y ADMIN.
@@ -143,6 +143,7 @@ curl http://localhost:8080/api/user/info \
 ## Entregable
 - Código en GitHub con README básico
 - Colección Postman con las pruebas
+- Crear una branch nueva con el desarrollo
 
 ## Criterios de Éxito
 1. Registro funcional
